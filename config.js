@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Chào buổi chiều, Dương Hải!',
+    introDesc: `Ta không thể nhắm mắt
+    Khi đang băng qua đường
+    Cũng như không thể ghét
+    Một người mình yêu thương`,
+    btnIntro: 'Okie🙂',
+    title: 'Hay là mình cứ yêu đi, đường yêu nào biết có gì đợi ta',
+    desc: 'Chỉ cần mỗi chỗ ngã ba, bàn tay còn nắm là qua được mà 😊 ',
+    btnYes: 'Không biết',
+    btnNo: 'Không, bạn à 🙂',
+    question:'Okie do mình chưa đủ tốt, bạn nghĩ sao ?',
+    btnReply: 'Gửi bạn',
+    reply: 'Đang làm bài thi cho sấp mặt đây, ngồi đó mà nghĩ :))',
+    mess: 'Okie mình không phiền nữa. Làm bài tốt ♥️',
+    messDesc: 'Nhớ bạn nên mình làm cái này, không tốn thời gian.',
+    btnAccept: 'Oke',
+    messLink: 'https://www.facebook.com/profile.php?id=100042909487411' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
